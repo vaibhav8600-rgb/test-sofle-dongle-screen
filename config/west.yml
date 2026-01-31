@@ -13,6 +13,6 @@ manifest:
       import: app/west.yml
     - name: snake-module
       remote: joaopedropio
-      revision: master
+      revision: zephyr-4.1
   self:
     path: config
