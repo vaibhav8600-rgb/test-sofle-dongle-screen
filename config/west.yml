@@ -18,6 +18,6 @@ manifest:
       revision: zephyr-4.1
     - name: mario-peripheral-animation   #new entry
       remote: gpeye                       #new entry
-      revision: main                      #new entry
+      revision: zephyr-4.1                      #new entry
   self:
     path: config
