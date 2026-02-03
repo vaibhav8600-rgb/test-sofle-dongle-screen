@@ -28,18 +28,10 @@ A highly customized ZMK firmware for the Sofle keyboard, utilizing a **dedicated
 
 | Layer | Function | Key Features |
 | --- | --- | --- |
-| **0: BASE** | Standard Typing | QWERTY, Volume Control (Encoder) 
-
- |
-| **1: LOWER** | Numbers/Symbols | F-keys, Punctuation, Page Nav (Encoder) 
-
- |
-| **2: RAISE** | Navigation/BT | Bluetooth profile selection, Arrow keys 
-
- |
-| **3: ADJUST** | System/RGB | RGB Toggle, Underglow effects, Ext Power 
-
- |
+| **0: BASE** | Standard Typing | QWERTY, Volume Control (Encoder) |
+|**1: LOWER** | Numbers/Symbols | F-keys, Punctuation, Page Nav (Encoder)  |
+| **2: RAISE** | Navigation/BT | Bluetooth profile selection, Arrow keys  |
+| **3: ADJUST** | System/RGB | RGB Toggle, Underglow effects, Ext Power  |
 
 > 
 > **Note:** The **ADJUST** layer is automatically triggered by holding both **LOWER** and **RAISE** keys simultaneously.
